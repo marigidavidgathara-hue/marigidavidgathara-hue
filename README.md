@@ -17,7 +17,7 @@ Currently, I am refining my skills in **MySQL**, **Tableau**, and **Python**, wi
 ---
 
 ### 🚀 Featured Project
-#### 💧 [Maji Ndogo Water Audit & Fraud Detection](https://github.com/marigidavidgathara-hue/Maji-Ndogo-Water-Audit)
+#### 💧 [Maji Ndogo Water Audit & Fraud Detection][(https://github.com/marigidavidgathara-hue/md_water_services)]
 *A full-stack data analysis project simulating a national water crisis audit.*
 * **The Challenge:** Audit 60,000+ records to detect corruption and optimize infrastructure.
 * **The Tech:** SQL (Window Functions, CTEs), Python (Pandas), Data Modeling.
