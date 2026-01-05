@@ -39,10 +39,3 @@ This project simulates a real-world audit of a national water crisis. I didn't j
 * **🛠 The Tech:** Python (Pandas), SQL (CTEs, Subqueries), Data Modeling.
 
 [**👉 View the Full Case Study**][(https://github.com/marigidavidgathara-hue/md_water_services)]
-
----
-
-### 📊 GitHub Stats
-*(These graphs automatically update to show I am active!)*
-![David's Stats](https://github-readme-stats.vercel.app/api?username=marigidavidgathara-hue&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marigidavidgathara-hue&layout=compact&theme=radical)
