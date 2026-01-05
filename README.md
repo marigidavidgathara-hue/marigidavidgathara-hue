@@ -44,7 +44,5 @@ This project simulates a real-world audit of a national water crisis. I didn't j
 
 ### 📊 GitHub Stats
 *(These graphs automatically update to show I am active!)*
-
-### 📊 GitHub Stats
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marigidavidgathara-hue&show_icons=true&theme=radical)
+![David's Stats](https://github-readme-stats.vercel.app/api?username=marigidavidgathara-hue&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marigidavidgathara-hue&layout=compact&theme=radical)
