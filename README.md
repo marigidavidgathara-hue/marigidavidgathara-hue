@@ -38,7 +38,7 @@ This project simulates a real-world audit of a national water crisis. I didn't j
 * **📉 The Optimization:** Reduced citizen queue times on Saturdays by ~30% through data-driven shift changes.
 * **🛠 The Tech:** Python (Pandas), SQL (CTEs, Subqueries), Data Modeling.
 
-[**👉 View the Full Case Study**](https://github.com/marigidavidgathara-hue/Maji-Ndogo-Water-Audit)
+[**👉 View the Full Case Study**][(https://github.com/marigidavidgathara-hue/md_water_services)]
 
 ---
 
